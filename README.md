@@ -23,6 +23,7 @@ Launches the test runner in the interactive watch mode.<br>
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### Build application
+![image](https://github.com/umamaheshwar3528/E-Commerce-Website-with-Docker/assets/52556849/84d034d6-d88b-4b92-a55c-4803efe8d5c6)
 
 ```
 npm run build
